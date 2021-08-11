@@ -1,2 +1,2 @@
- urllib
- hashlib
+ requests==2.13.0
+ hashlib==3.9.6
